@@ -1,4 +1,5 @@
-# This program computes # the area of polygons import math
+# This program computes # the area of polygons 
+import math
 def main():
     num_sides = (3, 4, 5, 6, 7, 8, 9)
     sidelength = side_length(get_side_length)
